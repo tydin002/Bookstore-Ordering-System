@@ -1,7 +1,7 @@
 # Bookstore-Ordering-System
 -Designed and implemented a linked list data structure to manage dynamic inventory entries, optimizing for real-time input and output operations.
 
-=Developed modular code with multiple files for improved readability and maintainability, including dedicated files for input handling, file management, search functionality, and menu navigation.
+-Developed modular code with multiple files for improved readability and maintainability, including dedicated files for input handling, file management, search functionality, and menu navigation.
 
 -Built error-handling routines to validate user input, ensuring accurate data entry for fields like ISBN, enrollment estimates, and costs.
 
